@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+set -e
+
+python3 /usr/share/Fern-Wifi-Cracker/execute.py "$@"
