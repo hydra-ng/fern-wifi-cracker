@@ -2,4 +2,4 @@
 
 set -e
 
-python3 /usr/share/Fern-Wifi-Cracker/execute.py "$@"
+python3 /usr/local/Library/Applications/Fern-Wifi-Cracker/execute.py "$@"
