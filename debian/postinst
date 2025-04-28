@@ -1,1 +1,1 @@
-chmod +x /usr/local/Library/bin/fern-wifi-cracker
+chmod 775 /usr/local/Library/bin/fern-wifi-cracker
